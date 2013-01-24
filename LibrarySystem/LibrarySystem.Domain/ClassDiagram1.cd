@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibrarySystem.Domain.Copy">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Copy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibrarySystem.Domain.Dvd">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Dvd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibrarySystem.Domain.MusicDvd">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MusicDvd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibrarySystem.Domain.Shelf">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAACAgAAgAAAAAA=</HashCode>
+      <FileName>Shelf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibrarySystem.Domain.Title">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAQAAAEAAIAAAAAAAAA=</HashCode>
+      <FileName>Title.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibrarySystem.Domain.Book">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
